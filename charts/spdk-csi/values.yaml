@@ -4,7 +4,7 @@
 ---
 image:
   spdkcsi:
-    repository: spdkcsi/spdkcsi
+    repository: ghcr.io/arcatva
     tag: canary
     pullPolicy: Never
   csiProvisioner:
